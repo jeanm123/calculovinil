@@ -2,7 +2,7 @@ document.addEventListener("DOMContentLoaded", function () {
   var respuesta = document.getElementById("respuesta");
   var metraje = document.getElementById("metraje");
   metraje.value = 0;
-  respuesta.textContent = 0 + " soles";
+  respuesta.textContent = 0 + " soless";
   var valores = {
     1: 4.4,
     2: 10,
